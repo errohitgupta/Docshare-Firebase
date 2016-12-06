@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#33b5e5</color>
+    <color name="grey">#c2c2c2</color>
+    <color name="user_detail_separator">#3a3a3a</color>
+    <color name="blue_grey_500">#607D8B</color>
+</resources>
